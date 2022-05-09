@@ -1,8 +1,6 @@
 # Convolutional Neural Network (CNN) using pytorch
 Deep learning using PyTorch
 
-The code is made by me using a paper from Sentdex at https://pythonprogramming.net/convolutional-neural-networks-deep-learning-neural-network-pytorch/
-
 The database used in cats vs dogs CNN has 24946 images of cats and dogs, for training I used 22452 images and testing 2494 images. (all images are 50px by 50px and grayscaled)
 
 Output:
@@ -22,3 +20,4 @@ Output:
     Accuracy of the guesses:  0.711
 
 
+Made with help of a paper published by Sentdex https://pythonprogramming.net/convolutional-neural-networks-deep-learning-neural-network-pytorch/
